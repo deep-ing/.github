@@ -2,7 +2,7 @@
 
 Deeping is a private community gathered by people who can boost overall deep learning research! 
 
-Please contact bumjin@kaist.ac.kr for invitation. 
+Please contact us for invitation. 
 
 
 ### Runable Experiments 
