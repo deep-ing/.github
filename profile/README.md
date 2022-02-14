@@ -1,12 +1,18 @@
-## Hi there 👋
+# deep-ing 🐳
 
-<!--
+Deeping is a private community gahtered by people who can boost overall deep learning research! 
 
-**Here are some ideas to get you started:**
+Please contact bumjin@kaist.ac.kr for invitation. 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+### Runable Experiments 
+
+1. [Nature DQN reproduce](docs/experiments/breakout_with_nature_dqn/README.md)
+
+
+
+### Implemented Features 
+
+
+1. [Make GIF Image](docs/deeping/make_gif.MD)
+
