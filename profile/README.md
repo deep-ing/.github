@@ -1,6 +1,6 @@
-# deep-ing 🐳
+# deeping 🐳
 
-Deeping is a private community gahtered by people who can boost overall deep learning research! 
+Deeping is a private community gathered by people who can boost overall deep learning research! 
 
 Please contact bumjin@kaist.ac.kr for invitation. 
 
