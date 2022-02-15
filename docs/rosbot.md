@@ -5,7 +5,7 @@
 Code From [husarion github](https://github.com/husarion/rosbot_description)
 
 
-<img src="../../asset/rosbot_demo.gif">
+<img src="../asset/rosbot_demo.gif">
 
 ### 1. Preliminary
 
