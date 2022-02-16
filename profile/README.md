@@ -15,4 +15,8 @@ Please contact us for invitation.
 
 1. [[Deeping] Make GIF Image](docs/deeping/make_gif.MD)
 2. [[ROS] Rosbot](docs/rosbot.md)
+<<<<<<< HEAD
 2. [[ROS] Ros Python Tutorial](docs/ros_talker_listener.md)
+=======
+3. [[ROS] Ros Python Tutorial](docs/ros_talker_listener.md)
+>>>>>>> 4d9ae7f71f3bab9d87fae1728654ee0b724b4b4b
