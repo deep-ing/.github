@@ -7,11 +7,12 @@ Please contact us for invitation.
 
 ### Runable Experiments 
 
-1. [Nature DQN reproduce](../docs/experiments/breakout_with_nature_dqn/README.md)
+1. [Nature DQN reproduce](docs/experiments/breakout_with_nature_dqn/README.md)
 
 
 
 ### Implemented Features 
 
-1. [[Deeping] Make GIF Image](../docs/deeping/make_gif.MD)
-2. [[ROS] Rosbot](../docs/rosbot.md)
+1. [[Deeping] Make GIF Image](docs/deeping/make_gif.MD)
+2. [[ROS] Rosbot](docs/rosbot.md)
+2. [[ROS] Ros Python Tutorial](docs/ros_talker_listener.md)
