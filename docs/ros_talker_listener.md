@@ -2,7 +2,7 @@
 
 Ready to run ROS + Python example 
 
-<img src="../../asset/talker_listener.gif">
+<img src="../asset/talker_listener.gif">
 
 
 
