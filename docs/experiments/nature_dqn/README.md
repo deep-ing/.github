@@ -35,5 +35,5 @@ you can reproduce the **training** and **evaluation** with shell scripts which u
 
 
 
-<img src="../../asset/nature_dqn_training.png" width=400px>
+<img src="../../../asset/nature_dqn_training.png" width=400px>
 
