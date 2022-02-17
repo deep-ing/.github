@@ -7,7 +7,7 @@ Please contact us for invitation.
 
 ### Runable Experiments 
 
-1. [Nature DQN reproduce](docs/experiments/breakout_with_nature_dqn/README.md)
+1. [Nature DQN reproduce](docs/experiments/nature_dqn/README.md)
 
 
 
