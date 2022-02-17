@@ -2,13 +2,7 @@
 
 Ready to run ROS + Python example 
 
-<<<<<<< HEAD
-<img src="../../asset/talker_listener.gif">
-=======
 <img src="../asset/talker_listener.gif">
->>>>>>> 4d9ae7f71f3bab9d87fae1728654ee0b724b4b4b
-
-
 
 ```
 # Make sure the ros is set. 
